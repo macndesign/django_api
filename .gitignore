@@ -7,6 +7,7 @@ __pycache__/
 .idea
 conf
 static
+*.ini
 
 # C extensions
 *.so
